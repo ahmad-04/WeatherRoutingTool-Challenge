@@ -78,7 +78,7 @@ qgis/min_time_route.qgz
 
 Screenshot:
 
-- `screenshots/route_map.png`
+![Route Map](screenshots/route_map.png)
 
 ## 7. Distance Calculation
 
@@ -92,7 +92,7 @@ The script measures the length of the route LineString and prints the distance i
 
 Screenshot of result:
 
-- `screenshots/distance_result.png`
+![Distance Result](screenshots/distance_result.png)
 
 ## 8. Final Output
 
